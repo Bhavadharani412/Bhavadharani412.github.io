@@ -1,0 +1,306 @@
+
+Bhavadharani K
+
+Aspiring Software Development Engineer focused on backend engineering, scalable systems, AI-assisted applications, and secure software development. Interested in building reliable software systems that remain maintainable and dependable as they scale. Strong interest in system design, developer productivity, and long-term cybersecurity learning.
+
+Location:
+Chennai, Tamil Nadu, India
+
+Profiles:
+GitHub: https://github.com/Bhavadharani412
+LinkedIn: https://www.linkedin.com/in/bhavadharanik412/
+LeetCode: https://leetcode.com/u/K_BHAVADHARANI/
+
+About:
+Fueled by tea and curiosity, I primarily work in backend development using Java and modern web technologies. I enjoy understanding how real systems behave at scale, how failures happen, and how engineering decisions impact maintainability over time.
+
+I value clean architecture, reliability, clarity, and ownership-driven development. My approach toward engineering is focused not only on writing code, but also understanding workflows, collaboration, usability, scalability, and communication inside real product environments.
+
+During my internship at Synergy Marine Group, I gained exposure to enterprise workflows, testing processes, SAP ecosystems, and cross-functional collaboration. That experience changed how I look at engineering beyond coding and helped me understand how organizations operate at scale.
+
+I am currently building deeper knowledge in backend engineering, system design, AI-assisted applications, and secure software systems.
+
+Education:
+Nandha Engineering College
+B.Tech Information Technology
+2023 - 2027
+CGPA: 8.97/10
+
+Technical Skills:
+
+Programming Languages:
+- Java
+- JavaScript
+- Python
+- SQL
+- Rust
+- TypeScript
+
+Backend:
+- Core Java
+- JDBC
+- REST APIs
+- Node.js
+- Express.js
+- OOP
+- Collections Framework
+- Exception Handling
+- Multithreading
+
+Frontend:
+- React.js
+- HTML
+- CSS
+- Responsive Web Design
+
+Database & Data:
+- SQL
+- DBMS
+- Hive
+- Hadoop
+- PySpark
+
+AI & Productivity:
+- Prompt Engineering
+- AI Workflow Integration
+- LLM-based Applications
+
+Core CS:
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Networks
+- Object-Oriented Programming
+- Database Management Systems
+
+Tools & Platforms:
+- Git
+- GitHub
+- Linux
+- VS Code
+- Chrome APIs
+- SAP S/4HANA
+- SAP Analytics Cloud
+- SAP Concur
+
+Experience:
+
+McKinsey & Company
+Forward Learner
+April 2026 - Present
+
+Focus Areas:
+- AI adoption
+- Structured problem solving
+- Adaptability
+- Digital collaboration
+- Communication
+
+DEVS NEC
+President & Initiator
+July 2025 - Present
+
+Responsibilities:
+- Building developer communities
+- Organizing technical initiatives
+- Mentoring students
+- Encouraging collaborative learning
+
+DEVS NEC
+Web Development Mentor
+February 2026 - Present
+
+Achievements:
+- Mentored 70+ students
+- Helped 25+ students achieve learning outcomes
+- Conducted frontend and web development sessions
+
+Aspire Institute
+Mentee
+February 2026 - April 2026
+
+Synergy Marine Group
+Project Intern
+September 2025 - December 2025
+
+Exposure:
+- Enterprise workflows
+- Testing processes
+- SAP ecosystems
+- Cross-functional collaboration
+- Agile communication practices
+
+Infosys Pragati Cohort
+Mentee
+December 2024 - March 2025
+
+Focus Areas:
+- AI learning
+- Industry-oriented development
+- Professional growth
+
+Projects:
+
+Take AI Powered Notes
+AI-powered note-taking platform focused on intelligent content organization and productivity enhancement.
+
+Key Areas:
+- LLM integration
+- Productivity workflows
+- Information structuring
+- Prompt refinement
+
+DevExplain AI
+AI-driven developer assistant platform designed to simplify technical concepts and improve developer learning workflows.
+
+Focus:
+- AI-assisted explanations
+- Developer productivity
+- Prompt engineering
+- Learning workflows
+
+Collaborative Text Editor
+Real-time collaborative editor built using React.js, Node.js, and Yjs.
+
+Features:
+- Multi-user editing
+- Live synchronization
+- Real-time collaboration
+
+URL Phishing Detector
+Rust-based phishing detector using heuristic analysis for suspicious URL pattern detection.
+
+Focus:
+- Security thinking
+- Rust systems programming
+- Threat detection logic
+
+Java Task Manager with JDBC
+Desktop task management application built using Java Swing and SQL persistence.
+
+Features:
+- CRUD operations
+- Database integration
+- Task management workflows
+
+Chrome Productivity Extension
+Browser productivity extension with reminders, task tracking, and local storage support.
+
+Rust Web Tic Tac Toe
+Interactive web game using Rust backend logic and AI-based opponent system.
+
+Telco Customer Churn ML
+Machine learning solution for telecom customer churn prediction using predictive analytics and feature engineering.
+
+Open Source:
+Contributor to collaborative open-source projects involving responsive UI improvements, Git workflows, and community-driven development practices.
+
+Certifications:
+- Oracle Cloud Infrastructure Developer Professional
+- OCI Generative AI Professional
+- Software Engineering Essentials by IBM
+- Accenture Software Engineering Job Simulation
+- Agile Scrum in Practice
+- Java Training Complete Course
+- Jira Service Management Certifications by Atlassian
+- Women in Leadership by Infosys Springboard
+
+Achievements:
+- Winner of Mr. Professor title for explaining non-technical concepts to technical audiences
+- Won cash prize of Rs.3000 in technical communication event
+- TED NANDHA Winner - Second Runner Up in oratorical competition
+- Speakathon Prize Winner
+- Best Book Reader recognition
+- Solved 100+ LeetCode problems
+
+Interests:
+- Backend Engineering
+- Scalable Systems
+- AI Engineering
+- Cybersecurity
+- System Design
+- Developer Productivity
+- Open Source Collaboration
+- Technical Writing
+
+Communication & Leadership:
+I enjoy public speaking, networking, mentoring, and explaining technical ideas clearly. Outside technology, I write short stories, which has improved my communication, clarity of thought, and ability to explain complex concepts intentionally.
+
+Current Goal:
+Actively looking for onsite internships and early-career software engineering opportunities where backend engineering, scalable systems, AI-assisted development, and security-focused thinking come together in high-ownership learning environments.
+
+Problem Solving Approach:
+
+I approach problems by first understanding the system instead of immediately jumping into implementation. I try to identify:
+- What the actual problem is
+- What assumptions exist
+- What could fail at scale
+- What tradeoffs are involved
+- How maintainable the solution will be later
+
+My usual approach:
+1. Understand the problem deeply
+2. Break it into smaller components
+3. Identify constraints and edge cases
+4. Build a simple working version first
+5. Improve structure, scalability, and reliability gradually
+6. Optimize only after correctness and clarity
+
+When debugging:
+- I isolate the failing component first
+- Reproduce the issue consistently
+- Validate assumptions using logs or smaller test cases
+- Fix root causes instead of patching symptoms
+
+Engineering Mindset:
+- I prefer clarity over unnecessary complexity
+- I value maintainable systems over quick hacks
+- I enjoy understanding how systems behave internally
+- I like solving problems that improve workflows or developer experience
+- I focus on learning concepts deeply instead of memorizing patterns
+
+How I Learn:
+- I learn best by building projects
+- I break large topics into smaller mental models
+- I write notes and explain concepts to strengthen understanding
+- I enjoy learning from open-source codebases and real-world systems
+- I improve through iteration, experimentation, and feedback
+
+How I Work in Teams:
+- I communicate progress clearly
+- I ask questions early instead of blocking silently
+- I value ownership and accountability
+- I enjoy collaborative environments where learning is encouraged
+- I like discussions that focus on reasoning and tradeoffs, not just implementation
+
+Things I Usually Think About While Building:
+- Scalability
+- Usability
+- Security
+- Maintainability
+- Developer Experience
+- Failure Handling
+- Performance Bottlenecks
+- System Reliability
+
+Areas I Am Currently Exploring:
+- Backend Engineering
+- System Design
+- AI-assisted Applications
+- Cybersecurity Fundamentals
+- Scalable Architectures
+- Secure Development Practices
+- Real-time Systems
+- Distributed Systems
+
+Common Questions I Ask Myself While Building:
+- What happens if this scales?
+- What can break here?
+- Is this easy to maintain later?
+- Can this be simplified further?
+- What are the tradeoffs?
+- How would this behave in production?
+- How would another developer understand this later?
+- What is the actual bottleneck?
+
+Long-Term Goal:
+To become a strong software engineer capable of building scalable, reliable, and secure systems while continuously improving problem-solving ability, communication, and engineering depth.

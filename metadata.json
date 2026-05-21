@@ -1,0 +1,6 @@
+{
+  "name": "Bhavadharani K Portfolio",
+  "description": "Professional engineering portfolio and AI assistant for Bhavadharani K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
