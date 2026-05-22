@@ -45,19 +45,39 @@ export function AssistantSection() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('/api/chat', {
+      const response = await fetch(
+  'https://ancient-snowflake-1c12bhava-apii.bhavadharanik412.workers.dev/',
+  {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ messages: [...messages, userMsg] })
+        body: JSON.stringify({
+  messages: [
+    ...messages.map(msg => ({
+      role: msg.role === 'ai' ? 'assistant' : 'user',
+      content: msg.content
+    })),
+    {
+      role: 'user',
+      content: userMsg.content
+    }
+  ]
+})
       });
 
       const data = await response.json();
-      
-      const aiMsg: Message = {
-        role: 'ai',
-        content: data.content,
-        time: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-      };
+
+const reply =
+  data?.choices?.[0]?.message?.content ||
+  "No response generated.";
+
+const aiMsg: Message = {
+  role: 'ai',
+  content: reply,
+  time: new Date().toLocaleTimeString([], {
+    hour: '2-digit',
+    minute: '2-digit'
+  })
+};
 
       setMessages(prev => [...prev, aiMsg]);
     } catch (error) {
