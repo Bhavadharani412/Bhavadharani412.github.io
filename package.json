@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000",
-   "build": "tsc && vite build",
+    "build": "tsc && vite build",
     "preview": "vite preview --port 3000",
+    "deploy": "gh-pages -d dist",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
@@ -26,6 +27,7 @@
     "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4",
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4.3.0",
     "typescript": "~5.8.2"
   }
